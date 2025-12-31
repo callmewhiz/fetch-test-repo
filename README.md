@@ -1,8 +1,8 @@
-# Fetch Test Repo for Rust
+# About Rust
 
-## Rusting 1
-### Rusting 2
-#### Rusting 3
-### Rusting 4
-## Rusting 5
-# Rusting 6
+## Rust is fast
+### Rust is friendly
+#### Rust is good
+### Rust is beautiful
+## Rust is awesome
+# Rust is awweeessssoooommmmeeeee....
