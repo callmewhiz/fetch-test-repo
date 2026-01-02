@@ -1,1 +1,0 @@
-# Rust is fuuccckkkkiiiinnnnngggggggggg awesomeeeeeeeee.
